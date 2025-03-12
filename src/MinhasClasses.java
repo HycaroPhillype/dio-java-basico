@@ -1,4 +1,4 @@
-public class Myclass {
+public class MinhasClasses {
     
 public static void main (String [] args) {
     // String meunome = "hycaro";

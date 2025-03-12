@@ -1,4 +1,4 @@
-public class StudentBulletin {
+public class BoletinEstudantil {
     public static void main(String [] args) {
         int mediaFinal = 6;
         if (mediaFinal < 6)
