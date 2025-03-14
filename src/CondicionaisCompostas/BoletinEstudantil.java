@@ -1,4 +1,4 @@
-package Atividades;
+package CondicionaisCompostas;
 public class BoletinEstudantil {
     public static void main(String [] args) {
         int mediaFinal = 6;
