@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ExemploBreakContinue",
+      "request": "launch",
+      "mainClass": "CondicionaisCompostas.ExemploBreakContinue",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
+      "name": "ExemploFor",
+      "request": "launch",
+      "mainClass": "CondicionaisCompostas.ExemploFor",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
       "name": "PlanoOperadora",
       "request": "launch",
       "mainClass": "CondicionaisCompostas.PlanoOperadora",
