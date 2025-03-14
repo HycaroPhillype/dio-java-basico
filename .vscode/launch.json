@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CaixaEletronico",
+      "request": "launch",
+      "mainClass": "Atividades.CaixaEletronico",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
       "name": "AboutMe",
       "request": "launch",
       "mainClass": "AboutMe",
