@@ -1,0 +1,57 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "AboutMe",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0",
+      "args": ["Hycaro", "Phillype", "31", "1.74"]
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "BoletinEstudantil",
+      "request": "launch",
+      "mainClass": "Atividades.BoletinEstudantil",
+      "projectName": "DIO-JAVA_bff1385d"
+    },
+    {
+      "type": "java",
+      "name": "Usuario",
+      "request": "launch",
+      "mainClass": "Atividades.Metodos.Usuario",
+      "projectName": "DIO-JAVA_bff1385d"
+    },
+    {
+      "type": "java",
+      "name": "MinhasClasses",
+      "request": "launch",
+      "mainClass": "Atividades.MinhasClasses",
+      "projectName": "DIO-JAVA_bff1385d"
+    },
+    {
+      "type": "java",
+      "name": "TiposVariaveis",
+      "request": "launch",
+      "mainClass": "Atividades.TiposVariaveis",
+      "projectName": "DIO-JAVA_bff1385d"
+    },
+    {
+      "type": "java",
+      "name": "MinhaClasse",
+      "request": "launch",
+      "mainClass": "MinhaClasse",
+      "projectName": "DIO-JAVA_bff1385d"
+    }
+  ]
+}

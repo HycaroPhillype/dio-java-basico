@@ -1,5 +1,8 @@
-public class MinhaCasse {
+public class MinhaClasse {
     public static void main(String[] args) {
         System.out.println("Olá, fui executado pelo terminal");
+        System.out.println("Ta complicado aqui viu !!");
+
     }
+
 }
