@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FormatadorCepExemplo",
+      "request": "launch",
+      "mainClass": "CondicionaisCompostas.FormatadorCepExemplo",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
+      "name": "AboutMe",
+      "request": "launch",
+      "mainClass": "Atividades.AboutMe",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
+      "name": "ExemploDoWhile",
+      "request": "launch",
+      "mainClass": "CondicionaisCompostas.ExemploDoWhile",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
+      "name": "ExemploWhile",
+      "request": "launch",
+      "mainClass": "CondicionaisCompostas.ExemploWhile",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
       "name": "ExemploBreakContinue",
       "request": "launch",
       "mainClass": "CondicionaisCompostas.ExemploBreakContinue",

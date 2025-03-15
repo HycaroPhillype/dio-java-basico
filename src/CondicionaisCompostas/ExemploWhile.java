@@ -11,11 +11,11 @@ public class ExemploWhile {
             if(valorDoce > mesada)
                 valorDoce = mesada;
 
-            System.out.println("Doce do valor: ".concat(String.valueOf(valorDoce)).concat("Adicionando no carrinho"));
+            System.out.println("Doce do valor: ".concat(String.valueOf(valorDoce)).concat(" Adicionando no carrinho"));
             mesada = mesada - valorDoce;
         }
 
-        System.out.println("Mesada".concat(String.valueOf(mesada)));
+        System.out.println("Mesada ".concat(String.valueOf(mesada)));
         System.out.println("Joãozinho gastou toda a sua mesada em doces");
 
 
