@@ -1,4 +1,4 @@
-package Metodos;
+package Atividades.Metodos;
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;

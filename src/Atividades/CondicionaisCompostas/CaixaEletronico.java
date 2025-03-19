@@ -1,4 +1,4 @@
-package CondicionaisCompostas;
+package Atividades.CondicionaisCompostas;
 
 import java.util.Locale;
 import java.util.Scanner;
