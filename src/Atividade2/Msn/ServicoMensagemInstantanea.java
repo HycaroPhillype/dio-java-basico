@@ -1,19 +1,21 @@
 package Atividade2.Msn;
 
-public class MsnMensseger {
+public class ServicoMensagemInstantanea {
     public void enviarMensagem() {
+        validarConexaoInternet();
         System.out.println("Enviando mensagem...");
+        salvarHistoricoMensagem();
     }
 
     public void receberMensagem() {
         System.out.println("Recebendo mensagem...");
     }
 
-    public void validarConexaoInternet() {
+    private void validarConexaoInternet() {
         System.out.println("Validando se está conectado a internet...");
     }
 
-    public void salvarHistoricoMensagem() {
+    private void salvarHistoricoMensagem() {
         System.out.println("Salvando histórioco de mensagens...");
     }
 }
