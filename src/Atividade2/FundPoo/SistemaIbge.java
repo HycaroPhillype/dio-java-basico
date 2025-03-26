@@ -1,4 +1,4 @@
-package Atividade2;
+package Atividade2.FundPoo;
 
 public class SistemaIbge {
     public static void main(String[] args) {

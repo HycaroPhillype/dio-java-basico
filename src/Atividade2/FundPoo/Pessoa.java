@@ -1,4 +1,4 @@
-package Atividade2;
+package Atividade2.FundPoo;
 
 public class Pessoa {
     private String nome;

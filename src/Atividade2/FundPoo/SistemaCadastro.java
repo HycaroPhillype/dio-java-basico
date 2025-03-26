@@ -1,4 +1,4 @@
-package Atividade2;
+package Atividade2.FundPoo;
 
 public class SistemaCadastro {
     public static void main(String[] args) {

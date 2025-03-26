@@ -1,4 +1,4 @@
-package Atividade2;
+package Atividade2.FundPoo;
 
 public enum EstadoBrasileiro {
     SAO_PAULO ("SP", "São Paulo", 55),
