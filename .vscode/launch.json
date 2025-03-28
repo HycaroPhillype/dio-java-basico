@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fabrica",
+      "request": "launch",
+      "mainClass": "Atividade2.Escritorio.Equipamentos.Estabelecimento.Fabrica",
+      "projectName": "meu-primeiro-projeto-java_8ac983f0"
+    },
+    {
+      "type": "java",
       "name": "PcPedrinho",
       "request": "launch",
       "mainClass": "Atividade2.Msn.PcPedrinho",
