@@ -1,4 +1,4 @@
-package Atividades;
+package Atividades.Escola;
 public class TiposVariaveis {
 public static void main(String [] args) {
     
